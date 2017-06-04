@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MaxTemperature">
+    <output-path>$PROJECT_DIR$/out/artifacts/MaxTemperature</output-path>
+    <root id="archive" name="MaxTemperature.jar">
+      <element id="module-output" name="MaxTemperature" />
+    </root>
+  </artifact>
+</component>
