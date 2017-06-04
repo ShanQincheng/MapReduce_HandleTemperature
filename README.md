@@ -1,3 +1,6 @@
+### 若在 Github 上顯示效果不好， 請移步 http://www.codingstory.com.cn/hadoop-mapreduce-chu-li-tian-qi-zi-liao-ti-qu-mei-ri-ye-wan-zui-gao-yu-zui-di-wen/
+
+
 # 前言
 ###### 你需要一個 hadoop 集群運行 mapreduce 程式。如果你還不知道如何搭建 hadoop 集群，可以參考這篇文章 
 [用 Doker 搭建 Hadoop 3 Node 集群](http://codingstory.com.cn/yong-doker-da-jian-hadoop-3-node-ji-qun/)
